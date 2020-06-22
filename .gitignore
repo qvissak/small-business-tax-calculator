@@ -1,0 +1,7 @@
+__pycache__/
+env/
+build/
+dist/
+FFF Payroll Spreadsheet.csv
+FFF Payroll YTD Spreadsheet.csv
+oklahoma-payroll.spec
